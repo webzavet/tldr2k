@@ -1,9 +1,6 @@
-<h1 align="center">👋 Hello, my name is Trpdjke</h1>
-
-<h3 align="center">Python Developer from Ukraine</h3>
-<p align="center">
-
-
-<p align="center">
-<img width="600" src="connecting1.gif" alt="my projects"/>
-</p>
+<h3 align="center">Trapidapie python developer from Ukraine</h3>
+<div  align="center">
+<img width="600" src="girlz.gif" alt="my projects"/>
+<a href="URL:https://www.codewars.com/users/Trapidapie/badges/large">
+        <img src="https://www.codewars.com/users/Trapidapie/badges/large" alt="Codewars"/>
+</div>
