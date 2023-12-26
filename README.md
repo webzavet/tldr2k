@@ -5,5 +5,5 @@
 
 
 <p align="center">
-<img width="600" src="connecting.gif" alt="my projects"/>
+<img width="600" src="connecting1.gif" alt="my projects"/>
 </p>
