@@ -5,5 +5,5 @@
 
 
 <p align="center">
-<img width="300" src="mmt-error-error.gif" alt="my projects"/>
+<img width="300" src="connecting.gif" alt="my projects"/>
 </p>
