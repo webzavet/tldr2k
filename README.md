@@ -5,6 +5,5 @@
                 <img src="https://www.codewars.com/users/Trapidapie/badges/large" alt="Codewars"/>
         </a>
         <br>
-         <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-Trapidapie&color=green" />
         </p>
 </div>
