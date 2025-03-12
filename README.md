@@ -1,7 +1,5 @@
-## k1shin – Software engineer and freelancer from Kharkiv/Kyiv Ukraine
-
-### Stack  
-- **Backend**: Go, PostgreSQL, MongoDB, Redis, Docker, Cloudinary, Rest, gRPC, (GraphQL, AWS, Neo4j, Solidity - nearly)  
+### Skills
+- **Backend**: Go, PostgreSQL, Neo4j, MongoDB, Redis, Docker, Cloudinary, Rest, gRPC, (GraphQL, AWS, Solidity - nearly)  
 - **Automation & Bots**: Telegram, Discord, WhatsApp and custom social media integrations  
 
 <div align="center">
