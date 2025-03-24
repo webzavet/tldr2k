@@ -1,6 +1,2 @@
-- **Stack**: Go, PostgreSQL, Neo4j, MongoDB, Redis, Docker, Cloudinary, Rest, gRPC, (GraphQL, AWS, Solidity - nearly)  
-- **Automation & Bots**: Telegram, Discord, WhatsApp and custom social media integrations  
-
-<div align="center">
-    <img width="600" src="github-snake.svg" alt="snake"/>
-</div>
+- **Tech**: Go, Solidity, go-chi, PostgreSQL, MongoDB, Redis, Neo4j, Docker, Cloudinary, AWS, Stripe, PayPal
+- **Automation & Bots**: Telegram, Discord, WhatsApp, Viber and custom social media integrations  
